@@ -16,7 +16,7 @@ This is a mini web app that enables users to browse through a list of robots and
 
 -To get the code..
 
-1. Go to the following github repository to access the files.
+1. Go to the following github repository to access the files:
 
 https://github.com/PapitoSpence/Bot-Battlr
 ```
