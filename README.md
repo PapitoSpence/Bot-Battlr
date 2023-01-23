@@ -67,4 +67,4 @@ Project contributed to by:
  [Spencer Mwenda](https://github.com/PapitoSpence/)
 
 ## Licence
-This project is licensed under the `MIT licence.
+This project is licensed under the MIT licence.
