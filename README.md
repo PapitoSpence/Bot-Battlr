@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# React Code Challenge: Bot Battlr
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a mini web app that enables users to browse through a list of robots, view  details.
+## User Story
+- the user is able to view a list of bots.
+- the user is able to add the bot in the army.
+- the user is able to delete the selected bot in the army.
 
-## Available Scripts
+## Development Requirements
 
-In the project directory, you can run:
+- Visual Studio Code.
+- npm 
+- Browser(Chrome or any other Chromium based Browser)
+- Live server  extension
+- json-server
 
-### `npm start`
+-To get the code..
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Go to the following github repository to access the files.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+https://github.com/PapitoSpence/Bot-Battlr
+```
 
-### `npm test`
+2. Fork and Clone the repository above to your local computer.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+3. Move to the folder where you cloned the files and install requirements and make sure you are in the below directory:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+cd Bot-Battlr/
+```
+4. Open the folder in `VS Code` using the command 
+```bash
+code .
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Deployed Link: 63ce8b52872add200af8fa79--peaceful-smakager-2b56ad.netlify.app
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Setup
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+After unbundling the project:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Run `npm install` in your terminal.
+2 In a new terminal, run `npm start`. This will run the react app on port '3000
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Technology used
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [HTML5]
+- [Javascript]
+- [CSS]
+- [React-JS]
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Author
+Project contributed to by:
+ [Spencer Mwenda](https://github.com/PapitoSpence/)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Licence
+This project is licensed under the `MIT licence.
