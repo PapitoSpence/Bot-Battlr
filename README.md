@@ -41,9 +41,12 @@ code .
 ## Setup
 
 After unbundling the project:
-
-1. Run `npm install` in your terminal.
-2 In a new terminal, run `npm start`. This will run the react app on port '3000
+<ul>
+ 
+ <li>Run `npm install` in your terminal.</li>
+ <li>In a new terminal, run `npm start`. This will run the react app on port '3000.</li>
+ 
+ </ul>
 
 
 
