@@ -35,7 +35,9 @@ code .
 ```
 
 
-## Deployed Link: 63ce8b52872add200af8fa79--peaceful-smakager-2b56ad.netlify.app
+## Deployed Link: 
+
+https://63ce8b52872add200af8fa79--peaceful-smakager-2b56ad.netlify.app/
 
 
 ## Setup
