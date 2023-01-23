@@ -1,6 +1,6 @@
-# React Code Challenge: Bot Battlr
+# React Code Challenge: Bot-Battlr
 
-This is a mini web app that enables users to browse through a list of robots, view  details.
+This is a mini web app that enables users to browse through a list of robots and view  details.
 ## User Story
 - the user is able to view a list of bots.
 - the user is able to add the bot in the army.
